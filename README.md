@@ -1,3 +1,7 @@
+### 联系方式（微信扫一扫）:
+<img width="444" height="560" alt="2fc79856-4bde-42f0-a5ea-83281867fbbe" src="https://github.com/user-attachments/assets/3eaeeaef-8fda-4c05-9f80-9e5361650c4a" />
+
+### 计算机毕设定制（直接点击链接）：https://www.yuque.com/techninja/code/xrpvpxbu3y8fa3ey?singleDoc#
 #### 一、项目演示地址（点击链接就可以看到）：
 
 https://www.bilibili.com/video/BV1K6C1YxEbP/?spm_id_from=333.999.0.0&vd_source=d6c0e92e345f995e8849e6e3baa03aeb
